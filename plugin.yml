@@ -1,0 +1,7 @@
+name: Default_End
+main: com.ftwinston.KillerMinecraft.Modules.DefaultEnd.Plugin
+depend: [Killer_Minecraft]
+version: 1
+load: STARTUP
+description: A world generator for Killer Minecraft
+author: FTWinston
